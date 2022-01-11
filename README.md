@@ -1,4 +1,5 @@
 # coding-challenge
+![image](https://user-images.githubusercontent.com/2115696/148899450-f8d6c30a-588d-412c-a6ec-b211850ffd88.png)
 
 ## Preparation
 1. Fork this repository
